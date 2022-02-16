@@ -1,3 +1,19 @@
+Profile page for serniors site in react.
+
+![image](https://user-images.githubusercontent.com/94622026/154315290-e769108e-6630-4510-83f7-140d156e3432.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
