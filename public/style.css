@@ -1,0 +1,138 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Montserrat", sans-serif;
+  }
+  body {
+    background: #eee;
+    padding: 0 16px;
+  }
+  
+  header {
+    position: relative;
+    height: 100px;
+    background-color: #f5ba13;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+   
+  }
+  
+  footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 98%;
+    
+  }
+  .header1 h1{
+    color: #fff;
+    font-family: "McLaren", cursive;
+    font-weight:auto;
+    width: auto;
+    height: auto;
+    margin-left: 205%;
+
+  }
+  
+  footer p {
+    color: #ccc;
+  }
+  .header1{
+    position: absolute;
+    width: 10%;
+  }
+  .header3{
+    position: relative;
+    top: -15%;
+   
+  }
+  .logobtn{
+    color:#fff;
+    font-weight:5;
+    margin-left:96%;
+    width:5%;
+    height: 5%;
+    font-family: "McLaren", cursive;
+  }
+  .logo{
+    position: relative;
+    width: 20%;
+    text-align: left;
+  }
+  
+  .logoimg{
+    position: absolute;
+    margin-left: 0%;
+    width: 200%;
+    height: 100%;
+  }
+  .searchbox{
+     width:40% ;
+     height: 30%;
+    position: absolute;
+    margin-left:30%;
+    margin-top:20px;
+    border-radius: 10%;
+    border-color: #ccc;   
+    flex: 1;
+    display: flex;
+    padding: 5px 4px 0 14px;
+  }
+  
+  .searchicon{
+  position: absolute;
+  margin-top: 1.5%;
+  margin-left: 70%;  
+  flex: 0 0 auto;
+    padding-right: 13px;
+  }
+  .profile{
+    margin-left:95%;
+    width:6%;
+    border-radius: 50%;
+    text-align: center;
+
+  }
+  .note {
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+   
+    margin-top:2% ;
+    margin-left: 35%;
+    
+    text-align: center;
+    width: 30%;
+  
+  }
+  .visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+  .note h1 {
+    color:#f5ba13;
+    font-weight: 50 ;
+    margin-bottom: 6px;
+    font-family: "McLaren", cursive;
+  }
+  .note p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  .img{
+    width:50%;
+    border-radius: 100%;
+    text-align: center;
+  }
