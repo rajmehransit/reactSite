@@ -1,7 +1,8 @@
 Profile page for serniors site in react.
 
-![image](https://user-images.githubusercontent.com/94622026/154315290-e769108e-6630-4510-83f7-140d156e3432.png)
 
+
+![reactsite](https://user-images.githubusercontent.com/94622026/154316065-2a228394-0abd-4b99-a45e-0894d894e012.png)
 
 
 
